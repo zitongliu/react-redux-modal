@@ -1,0 +1,29 @@
+.app {
+  display: flex;
+  justify-content: space-around;
+}
+
+.left {
+  z-index: 3;
+}
+
+.right {
+  position: relative;
+  z-index: 1;
+}
+
+
+body .modal {
+  position: fixed;
+  top: 90px;
+  left: 120px;
+  right: 120px;
+  bottom: 90px;
+  border: 1px solid #ccc;
+  background: #fff;
+  overflow: auto;
+  border-radius: 4px;
+  outline: none;
+  padding: 20px;
+  display: block;
+}
