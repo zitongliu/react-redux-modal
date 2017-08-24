@@ -1,4 +1,5 @@
-# react-redux-weather-app
+# React Redux Modal
+A simple Redux modal. Based on the course "Modern React with Redux" by Stephen Grider.
 
 ### Getting Started
 
